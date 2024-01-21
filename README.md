@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a recipe app/marketplace**
+ 🔭 I’m currently working on **[A Recipe App](https://github.com/adamciszek/RecipeHub)**
  
  🌱 I’m currently learning **frontend development**
 
