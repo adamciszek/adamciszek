@@ -8,10 +8,10 @@ I love turning ideas into aesthetic, minimal, and clean web apps that are functi
 
 ```
 Tech Stack:
-├── ⚛️  React.js
+├── ⚛️ React.js
 ├── 📱 React Native
 ├── ⚡ JavaScript/TypeScript
 ├── 🎨 CSS/SCSS
 ├── 🔥 Firebase
-└── 🛠️  Git
+└── 🛠️ Git
 ```
